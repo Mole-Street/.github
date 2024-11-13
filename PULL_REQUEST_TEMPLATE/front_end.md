@@ -27,7 +27,7 @@
 
 ### **Demo**
 
-<!-- Add screenshots or links to preview pages demonstrating your changes. -->
+<!-- Add screenshots or links to preview pages demonstrating your changes. Be sure to demo responsiveness if that was a core requirement.  -->
 
 ---
 
