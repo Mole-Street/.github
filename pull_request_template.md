@@ -1,6 +1,4 @@
-# Front-End Pull Request
-
-### **Description**
+## **Description**
 <!-- Uncomment one or more of the following change categories and add bullet point notes underneath summarizing your changes: -->
 
 <!-- - Bug fix -->
@@ -12,7 +10,7 @@
 
 ---
 
-### **Related Issues**
+## **Related Issues**
 <!-- Add link to the related Kantata task in the parenthesis below. Follow the same format to add additional Kantata Task links if needed.-->
 
 - [Kantata Task]()
@@ -20,12 +18,12 @@
 
 ---
 
-### **Additional Notes**
+## **Additional Notes**
 <!-- Include any additional information that reviewers should know. For example, known issues, caveats, incomplete work will be handled in a separate PR, or limitations in this PR. -->
 
 ---
 
-### **Demo**
+## **Demo**
 
 <!-- FE demos: Add screenshots/gifs or links to preview pages demonstrating your changes. Be sure to demo responsiveness if that was a core requirement.  -->
 
@@ -33,13 +31,13 @@
 
 ---
 
-### **Additional Resources**
+## **Additional Resources**
 
 <!-- Add links to other relevant resources that give reviewers context to your changes: Figma, Miro boards, project documentation, etc.-->
 
 ---
 
-### **Checklist**
+## **Checklist**
 
 <!-- The following requirements must be met before you can merge your PR:-->
 
