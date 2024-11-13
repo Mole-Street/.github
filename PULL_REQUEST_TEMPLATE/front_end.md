@@ -41,6 +41,7 @@
 
 <!-- The following requirements must be met before you can merge your PR:-->
 
+- [ ] The PR title is updated and makes sense (no branch names)
 - [ ] I have updated the README or other project documentation (if necessary).
 
 ---
