@@ -27,7 +27,9 @@
 
 ### **Demo**
 
-<!-- Add screenshots or links to preview pages demonstrating your changes. Be sure to demo responsiveness if that was a core requirement.  -->
+<!-- FE demos: Add screenshots/gifs or links to preview pages demonstrating your changes. Be sure to demo responsiveness if that was a core requirement.  -->
+
+<!-- BE demos: Add screenshots/gifs of API requests or links to preview pages demonstrating your changes. -->
 
 ---
 
