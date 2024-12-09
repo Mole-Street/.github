@@ -1,16 +1,17 @@
+# Front-End Pull Request Template
+
 ## **Description**
 <!-- Uncomment one or more of the following change categories and add bullet point notes underneath summarizing your changes: -->
 
-<!-- - Bug fix -->
 <!-- - New feature -->
-<!-- - Refactor (non-breaking changes) -->
-<!-- - Documentation update -->
-<!-- - Proof of concept -->
+<!-- - Bug fix -->
+<!-- - Debt (non-breaking changes) -->
+<!-- - Chore -->
 <!-- - Other (please specify): -->
 
 ---
 
-## **Related Issues**
+## **Kantata Links**
 <!-- Add link to the related Kantata task in the parenthesis below. Follow the same format to add additional Kantata Task links if needed.-->
 
 - [Kantata Task]()
@@ -18,30 +19,23 @@
 
 ---
 
-## **Additional Notes**
-<!-- Include any additional information that reviewers should know. For example, known issues, caveats, incomplete work will be handled in a separate PR, or limitations in this PR. -->
-
----
-
 ## **Demo**
 
-<!-- FE demos: Add screenshots/gifs or links to preview pages demonstrating your changes. Be sure to demo responsiveness if that was a core requirement.  -->
-
-<!-- BE demos: Add screenshots/gifs of API requests or links to preview pages demonstrating your changes. -->
+<!-- Add screenshots or links to preview pages demonstrating your changes. -->
 
 ---
 
-## **Additional Resources**
+## **Additional Notes & Resources**
+<!-- Include any additional information that reviewers should know. For example, known issues, work-arounds, incomplete work will be handled in a separate PR, or limitations in this PR. -->
 
-<!-- Add links to other relevant resources that give reviewers context to your changes: Figma, Miro boards, project documentation, etc.-->
+<!-- Add links to other relevant resources that give reviewers context to your changes: Figma, Miro boards, project documentation, API documentation, etc.-->
 
 ---
 
 ## **Checklist**
 
 <!-- The following requirements must be met before you can merge your PR:-->
-
-- [ ] The PR title is updated and makes sense (no branch names)
+- [ ] The PR title follows the MS guidelines
 - [ ] I have updated the README or other project documentation (if necessary).
 
 ---
