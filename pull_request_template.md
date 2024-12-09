@@ -35,7 +35,7 @@
 ## **Checklist**
 
 <!-- The following requirements must be met before you can merge your PR:-->
-
+- [ ] The PR title follows the MS guidelines
 - [ ] I have updated the README or other project documentation (if necessary).
 
 ---
