@@ -30,7 +30,7 @@ If a demo isn't needed, you can write: N/A:<short description why demo isn't nec
 ---
 
 ## **Additional Notes & Resources**
-<!-- Include any additional information that reviewers should know. For example, known issues, limitations, workarounds, or incomplete work will be handled in a separate PR. -->
+<!-- Include any additional information that reviewers should know. For example, context, known issues, limitations, workarounds, or incomplete work will be handled in a separate PR. -->
 
 <!-- Add links to other relevant resources that give reviewers context to your changes: Figma, Miro boards, project documentation, API documentation, etc.-->
 
