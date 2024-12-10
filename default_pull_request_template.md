@@ -12,7 +12,9 @@
 ---
 
 ## **Kantata Links**
-<!-- Add link to the related Kantata task in the parenthesis below. Follow the same format to add additional Kantata Task links if needed.-->
+<!-- Add link to the related Kantata task in the parenthesis below. Follow the same format to add additional Kantata Task links if needed.
+
+If there isn't a Kantata Task, you can write: N/A:<short description why> -->
 
 - [Kantata Task]()
 <!-- - [Kantata Task #2]()-->
@@ -21,7 +23,9 @@
 
 ## **Demo**
 
-<!-- Add screenshots, loom links, or links to preview pages demonstrating your changes. -->
+<!-- Add screenshots, loom links, or links to preview pages demonstrating your changes. 
+
+If a demo isn't needed, you can write: N/A:<short description why demo isn't necessary> -->
 
 ---
 
