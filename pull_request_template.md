@@ -1,4 +1,4 @@
-# Front-End Pull Request Template
+# Pull Request Template
 
 ## **Description**
 <!-- Uncomment one or more of the following change categories and add bullet point notes underneath summarizing your changes: -->
@@ -21,21 +21,24 @@
 
 ## **Demo**
 
-<!-- Add screenshots or links to preview pages demonstrating your changes. -->
+<!-- Add screenshots, loom links, or links to preview pages demonstrating your changes. -->
 
 ---
 
 ## **Additional Notes & Resources**
-<!-- Include any additional information that reviewers should know. For example, known issues, work-arounds, incomplete work will be handled in a separate PR, or limitations in this PR. -->
+<!-- Include any additional information that reviewers should know. For example, known issues, limitations, workarounds, or incomplete work will be handled in a separate PR. -->
 
 <!-- Add links to other relevant resources that give reviewers context to your changes: Figma, Miro boards, project documentation, API documentation, etc.-->
 
 ---
 
-## **Checklist**
-
+## **Checklists**
 <!-- The following requirements must be met before you can merge your PR:-->
+### Development
+- [ ] Application changes have been tested thoroughly
+- [ ] The README has been updated (if necessary)
+
+### Code Review
 - [ ] The PR title follows the MS guidelines
-- [ ] I have updated the README or other project documentation (if necessary).
 
 ---
