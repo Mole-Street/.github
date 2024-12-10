@@ -20,7 +20,7 @@ Ensure no internal data, personal identifiers, client information, or project de
 ### Making Changes
 
 - Only **Mole Street Organization Members** are permitted to make updates to this repository
-- Changes are limited to the default_pull_request_template.md file
+- Changes are limited to the pull_request_template.md file
 All changes must:
   - Adhere to Mole Street's internal standards
   - Apply to all repositories at Mole Street
@@ -28,7 +28,7 @@ All changes must:
 
 ## Default PR Template
 
-The `default_pull_request_template.md` file is applied to all pull requests within the Mole Street Organization. This ensures a consistent workflow and helps maintain quality standards.
+The `pull_request_template.md` file is applied to all pull requests within the Mole Street Organization. This ensures a consistent workflow and helps maintain quality standards.
 
 ### Requirements
 
