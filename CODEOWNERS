@@ -25,4 +25,4 @@
 /backend    @sgarciac8 @LucianoPierdona @samo-mole
 
 # Catch-all rule for older repos that don't use the monorepo structure (ensures review from everyone)
-*             @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @sgarciac8 @LucianoPierdona @samo-mole
+*           @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @sgarciac8 @LucianoPierdona @samo-mole
