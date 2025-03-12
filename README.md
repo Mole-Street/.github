@@ -54,12 +54,12 @@ Ownership is determined by file path matching:
 
 Code Owners should only be internal, full-time Mole Street developers. Anyone with a different role within Mole Street or outside of the organization are not eligible to be code owners. 
 
-To add a new code owner, you'll need to add the users's GitHub handle to the `CODEOWNERS` file, following the existing pattern there. They must also have write permissions for all repositories. 
+To add a new code owner, you'll need to add the user's GitHub handle to the `CODEOWNERS` file, following the existing pattern there. They must also have write permissions for all repositories. 
 
 ### To Remove and Existing Code Owner
 
 Simply delete the user's GitHub handle from the `CODEOWNERS` file.
 
-### Why do we have Code Owners? 
+### Why Do We Have Code Owners? 
 
-As part of our SOC2 compliance efforts, we need to ensure that code changes merged into the main branch of our repositories must be reviewed by someone other than the person committing the change. The code owners file + the corresponding GitHub settings will ensure that we're meeting this requirement and automates PR review requests for us. 
+As part of our SOC2 compliance efforts, we need to ensure that code changes merged into the main branch of our repositories must be reviewed by someone other than the person committing the change. The code owners file + the corresponding GitHub settings will ensure that we're meeting this requirement and it automates PR review requests for us. 
