@@ -13,13 +13,13 @@
 
 
 # Frontend-Team Approvers
-/frontend    @brandonmitchell217 
-*.html       @Mole-Street/Frontend-Team
-*.css        @Mole-Street/Frontend-Team
-*.scss       @Mole-Street/Frontend-Team
+/frontend    @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
+*.html       @Mole-Street/Frontend-Team   @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
+*.css        @Mole-Street/Frontend-Team   @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
+*.scss       @Mole-Street/Frontend-Team   @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
 
 # Backend-Team Approvers
-/backend    @Mole-Street/Backend-Team
+/backend    @sgarciac8 @LucianoPierdona @samo-mole
 
 # Catch-all rule for older repos that don't use the monorepo structure (ensures review from everyone)
-*           @Mole-Street/Frontend-Team @Mole-Street/Backend-Team
+*             @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @sgarciac8 @LucianoPierdona @samo-mole
