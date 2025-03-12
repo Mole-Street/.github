@@ -5,7 +5,7 @@
 
 # The '*' pattern is for global owners.
 
-# Order is important. Precendence rules:
+# Order is important. Precedence rules:
 # 1) More Specific Patterns Always Win
 # 2) Order Only Matters for Ties: The last matching pattern that matches a file takes precedence over earlier ones.
 
@@ -17,9 +17,9 @@
 
 # Frontend-Team Approvers
 /frontend    @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
-*.html       @Mole-Street/Frontend-Team   @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
-*.css        @Mole-Street/Frontend-Team   @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
-*.scss       @Mole-Street/Frontend-Team   @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
+*.html       @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
+*.css        @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
+*.scss       @brandonmitchell217 @erbriggs @lcrandall-molestreet @leif-mole @Romeorayyy @samo-mole
 
 # Backend-Team Approvers
 /backend    @sgarciac8 @LucianoPierdona @samo-mole
