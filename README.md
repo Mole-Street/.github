@@ -34,3 +34,32 @@ The `pull_request_template.md` file is applied to all pull requests within the M
 
 - All pull requests must use this template
 - Developers are required to complete the template fully and appropriately for every PR
+
+## Code Owners
+
+The `CODEOWNERS` file is located in this repository so that it acts as the global code owners file for the organization——meaning that it applies to all repos in the organization. The primary benefit of this is that we don't have to maintain multiple copies of this file across every repository we own.
+
+Code owners are automatically requested for review when someone opens a pull request that modifies code that they own. Code owners are not automatically requested to review draft pull requests.
+
+GitHub CODEOWNERS documentation can be found (here)[https://help.github.com/articles/about-codeowners/]
+
+### Who Owns What
+
+Ownership is determined by file path matching:
+- Front end developers are assigned to review changes made to all `/frontend ` directories
+- Back end developers are assigned to review changes made to all `/backend ` directories
+- All developers are assigned to review changes that do not match the file patterns above. This is to ensure review coverage for older repositories that do not follow the current repo structure standard (e.g., the monorepo-template structure). 
+
+### To Add New Code Owners
+
+Code Owners should only be internal, full-time Mole Street developers. Anyone with a different role within Mole Street or outside of the organization are not eligible to be code owners. 
+
+To add a new code owner, you'll need to add the users's GitHub handle to the `CODEOWNERS` file, following the existing pattern there. They must also have write permissions for all repositories. 
+
+### To Remove and Existing Code Owner
+
+Simply delete the user's GitHub handle from the `CODEOWNERS` file.
+
+### Why do we have Code Owners? 
+
+As part of our SOC2 compliance efforts, we need to ensure that code changes merged into the main branch of our repositories must be reviewed by someone other than the person committing the change. The code owners file + the corresponding GitHub settings will ensure that we're meeting this requirement and automates PR review requests for us. 
