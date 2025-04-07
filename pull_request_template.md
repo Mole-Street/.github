@@ -44,6 +44,7 @@ If a demo isn't needed, you can write: N/A:<short description why demo isn't nec
 
 ### Code Review
 - [ ] The PR title follows the MS guidelines
+- [ ] Your code is free of errors/warnings and follows the MS coding standards
 - [ ] You have reviewed your own PR
 
 ---
