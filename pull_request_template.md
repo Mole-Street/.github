@@ -44,7 +44,7 @@ If a demo isn't needed, you can write: N/A:<short description why demo isn't nec
 - [ ] Mole Street Security Policies have been correctly implemented (found in [Drata](https://app.drata.com/governance/policies))
    - [ ] Any reported security violations from the review have been documented in a PR comment and fixed before merging
 
-### Code Review 
+### Code Review
 - [ ] The PR title follows the MS guidelines
 - [ ] Your code is free of linting errors/warnings and follows the MS coding standards
 - [ ] You have reviewed your own PR
